@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=finder
+comment1.params=n1\ n2
+comment1.target=void\ findMax(int,\ int)
+comment2.params=n1\ n2\ n3
+comment2.target=void\ findMax(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
